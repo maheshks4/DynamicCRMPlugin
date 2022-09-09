@@ -10,4 +10,4 @@ Nugget Packages
 
 ![image](https://user-images.githubusercontent.com/16335691/189327729-377edd8e-6ab7-4a20-af0c-0e1e1d562ec6.png)
 
-
+Upload the Builded dll from .net project to Dynamics 365 using Nuget downloadded tool (xrmTooling.PulginRegistrationTool)
