@@ -24,3 +24,7 @@ https://microsoftedge.microsoft.com/addons/detail/metadata-browser-for-dyna/fdfe
 
 **Power apps(to access 365 database)**
 https://make.powerapps.com/![image](https://user-images.githubusercontent.com/16335691/189519865-d390540b-4837-4989-9612-511737365c84.png)
+
+
+**User managment **
+https://admin.microsoft.com/
