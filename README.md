@@ -20,3 +20,7 @@ https://microsoftedge.microsoft.com/addons/detail/metadata-browser-for-dyna/fdfe
 **Plugin Uploader**
 
 ![image](https://user-images.githubusercontent.com/16335691/189470600-b8ea58fc-b19f-478c-9f48-a17e34ad2267.png)
+
+
+**Power apps(to access 365 database)**
+https://make.powerapps.com/![image](https://user-images.githubusercontent.com/16335691/189519865-d390540b-4837-4989-9612-511737365c84.png)
