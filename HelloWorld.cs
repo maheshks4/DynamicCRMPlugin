@@ -53,6 +53,7 @@ namespace MyDynamicPlugin
                     {
 
                         firstName = entity.Attributes["firstname"].ToString();
+                        firstName = entity.Attributes["firstname"].ToString();
                         firstName = entity.Attributes["lastname"].ToString();
                     }
 
